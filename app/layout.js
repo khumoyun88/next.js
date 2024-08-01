@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>
         <container >
 
-          <header className=" mx-auto flex justify-between items-center px-4 ">
+          <header className=" mx-auto flex justify-between items-center px-4">
 
           <div className="flex py-4">
             <Image  className="inline-block py-3 mr-1" src="/logo.png" alt="Site Logo"  width={38} height={38}/>
